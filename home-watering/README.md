@@ -13,6 +13,10 @@ This is one of my first arduino projects, so any feedback is welcome :)
 * [Water pump][3] (used during the development, but any such pump should work,
   for example [this one][4] also seems fine).
 
+# Wiring
+
+![Check out the image](./wiring.png "Wiring scheme")
+
 [0]: https://www.amazon.fr/gp/product/B00QPUEFNW/ref=oh_aui_detailpage_o03_s00?ie=UTF8&psc=1
 [1]: https://www.amazon.fr/gp/product/B00PN5RITI/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1
 [2]: http://www.ebay.fr/itm/like/281922284069?ul_noapp=true
